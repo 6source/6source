@@ -3,21 +3,36 @@
   17-year-old developer based in Italy.<br>
   My coding journey includes a background in scripting with <b>Lua</b>,<br>
   and I am currently dedicated to sharpening my skills in <b>Java</b>.<br>
-  My primary focus at the moment is the development of a project titled <b>Escape The Cave</b>.<br><br>
+  My primary focus at the moment is the development of a game project titled 
+  <a href="https://github.com/6source/Escape-The-Cave"><b>Escape The Cave</b></a>.<br><br>
 </div>
 
-<h2 align="center">MY STATS</h2>
-<br/>
+<h2 align="center">🎮 Current Project</h2>
+
 <div align="center">
-  
-![xspystats](https://github-readme-stats-fast.vercel.app/api?username=6source&show_icons=true&theme=dark#gh-dark-mode-only)
+  <a href="https://github.com/6source/Escape-The-Cave">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=6source&repo=Escape-The-Cave&theme=dark">
+  </a>
+</div>
+
+<h2 align="center">📊 MY STATS</h2>
+
 <br/>
+
+<div align="center">
+
+![xspystats](https://github-readme-stats-fast.vercel.app/api?username=6source&show_icons=true&theme=dark#gh-dark-mode-only)
+
+<br/>
+
 ![komarev](https://komarev.com/ghpvc/?username=6source&color=D22B2B)
 
 </div>
 
-<h2 align="center">Coding Languages that I like or use regularly:</h2>
+<h2 align="center">💻 Coding Languages that I like or use regularly:</h2>
+
 <br/>
+
 <div align="center"> 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -25,3 +40,23 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+</div>
+
+<br/>
+
+<h2 align="center">🚀 About Me</h2>
+
+<div align="center">
+  🔹 Passionate about programming and game development<br>
+  🔹 Currently focusing on improving my <b>Java</b> skills<br>
+  🔹 Experience with scripting in <b>Lua</b><br>
+</div>
+
+<br/>
+
+<div align="center">
+  
+⭐ If you like my projects, consider starring them on GitHub!
+
+</div>
