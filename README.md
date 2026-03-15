@@ -1,9 +1,9 @@
 <div align="center">
   Hi there! 👋 My name is 6source (Riccardo).<br>
-  I enjoy programming and building different kinds of projects, especially using Lua.<br>
-  I like experimenting with new technologies and creating tools to improve my coding skills.<br><br>
+  I'm a 17 year old developer who enjoys programming and building different kinds of projects.<br>
+  I especially like working with Lua and experimenting with new technologies.<br><br>
 
-  Most of my projects are things I build to learn, explore ideas, and have fun with development.
+  Most of my projects are things I build to learn, explore ideas, and improve my coding skills.
 </div>
 
 <h2 align="center">MY STATS</h2>
