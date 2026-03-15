@@ -1,9 +1,9 @@
 <div align="center">
-  Hi there! 👋 My name is 6source (Riccardo).<br>
-  17-year-old developer based in Italy. <br>
-  My coding journey includes a background in scripting with **Lua**, <br>
-  and I am currently dedicated to sharpening my skills in **Java**. <br>
-  My primary focus at the moment is the development of a project titled **Escape The Cave**.<br><br>
+  Hi there! 👋 My name is <b>6source (Riccardo)</b>.<br>
+  17-year-old developer based in Italy.<br>
+  My coding journey includes a background in scripting with <b>Lua</b>,<br>
+  and I am currently dedicated to sharpening my skills in <b>Java</b>.<br>
+  My primary focus at the moment is the development of a project titled <b>Escape The Cave</b>.<br><br>
 </div>
 
 <h2 align="center">MY STATS</h2>
