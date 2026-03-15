@@ -37,18 +37,4 @@
 
 <br/>
 
-<h2 align="center">🚀 About Me</h2>
-
-<div align="center">
-  🔹 Passionate about programming and game development<br>
-  🔹 Currently focusing on improving my <b>Java</b> skills<br>
-  🔹 Experience with scripting in <b>Lua</b><br>
-</div>
-
-<br/>
-
-<div align="center">
-  
-⭐ If you like my projects, consider starring them on GitHub!
-
 </div>
