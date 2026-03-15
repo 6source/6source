@@ -7,14 +7,6 @@
   <a href="https://github.com/6source/Escape-The-Cave"><b>Escape The Cave</b></a>.<br><br>
 </div>
 
-<h2 align="center">🎮 Current Project</h2>
-
-<div align="center">
-  <a href="https://github.com/6source/Escape-The-Cave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=6source&repo=Escape-The-Cave&theme=dark">
-  </a>
-</div>
-
 <h2 align="center">📊 MY STATS</h2>
 
 <br/>
